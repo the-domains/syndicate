@@ -6,9 +6,9 @@ color:
   saturation: 0.8563079515006393
   rhythmicContrast: 0.008725797291845083
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: syndicate
