@@ -1,0 +1,14 @@
+layout_spectrum: 0.43599685095250607
+typography_spectrum: 0.11887065810151398
+color:
+  brandStrength: 0.27333634765818715
+  lightness: 0.18501649238169193
+  saturation: 0.8563079515006393
+  rhythmicContrast: 0.008725797291845083
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: syndicate
